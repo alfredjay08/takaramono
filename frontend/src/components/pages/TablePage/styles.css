@@ -1,0 +1,16 @@
+.census__table--container {
+  width: 90%;
+}
+
+.census__table {
+  font-size: 0.8rem;
+}
+
+.census___header--title {
+  background-color: rgba(242, 242, 245);
+}
+
+.census___header--title th {
+  color: rgb(66, 84, 102);
+  font-weight: 600 !important;
+}
