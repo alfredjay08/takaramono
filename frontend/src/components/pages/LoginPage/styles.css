@@ -1,0 +1,10 @@
+.login__page {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.login__page--container {
+  width: 90%;
+  max-width: 350px;
+}
